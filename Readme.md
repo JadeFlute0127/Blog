@@ -1,32 +1,19 @@
-Blog
-
--- Readme.md
-
--- \Life
-
--- \Music
-
--- \Technology
-
-    -- \Go
-
-    -- \Cpp
-
-    -- \Network
-
-    -- \Operating Sytem
-
-    -- \Database
-
-    -- \Arc
-
-    -- \Data Struct And Algorithm
-
-    -- \Projects
-
-    -- \Tools
-
-* Git
-* Cmake
-* GDB
-* Vim
+│  list.txt
+│  Readme.md
+├─Life
+├─Music
+└─Technology
+    ├─Arc
+    ├─Competition_Algorithm
+    ├─Cpp_lang
+    ├─Database
+    ├─Go_lang
+    ├─Network
+    ├─OpertaingSystem
+    ├─Projects
+    ├─SystemDesign
+    └─Tools
+        ├─Cmake
+        ├─GDB
+        ├─Git
+        └─Vim
