@@ -26,7 +26,7 @@ Blog
 
     -- \Tools
 
-* Git
-* Cmake
-* GDB
-* Vim
+       -- \Git
+       -- \Cmake
+       -- \GDB
+       -- \Vim
